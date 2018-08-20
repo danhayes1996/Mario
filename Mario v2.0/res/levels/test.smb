@@ -1,0 +1,101 @@
+{
+	type: level;
+	width: 400;
+	height: 400;
+}
+
+{
+	type: player;
+	x: 8;
+	y: 72;
+}
+
+{
+	 type: block;
+	 x: 8;
+	 y: 8;
+}
+
+{
+	 type: brick;
+	 x: 32;
+	 y: 8;
+}
+
+{
+	 type: empty-block;
+	 x: 56;
+	 y: 8;
+}
+
+{
+	 type: ground;
+	 x: 80;
+	 y: 8;
+}
+
+{
+	 type: item-brick;
+	 x: 104;
+	 y: 8;
+}
+
+{
+	 type: qblock;
+	 x: 128;
+	 y: 8;
+}
+
+{
+	 type: pipe;
+	 x: 190;
+	 y:100;
+	 direction: left;
+	 repeat: 2;
+	 link: 
+	 {
+		x: 154;
+		y: 4;
+		repeat: 1;
+	 }
+}
+
+{
+	 type: bowser-bridge;
+	 x: 8;
+	 y: 32;
+}
+
+{
+	 type: bridge;
+	 x: 8;
+	 y: 64;
+	 repeat-width: 2;
+}
+
+{
+	 type: cloud;
+	 x: 32;
+	 y: 56;
+}
+
+{
+	 type: moving-platform;
+	 x: 56;
+	 y: 56;
+	 repeat-width: 2;
+}
+
+{
+	 type: oneuse-platform;
+	 x: 80;
+	 y: 56;
+	 repeat-width: 2;
+}
+
+{
+	 type: tree-platform;
+	 x: 104;
+	 y: 56;
+	 repeat-width: 6;
+}

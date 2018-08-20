@@ -1,0 +1,173 @@
+{ type: level; width: 3392; height: 224; }
+
+{ type: camera-follow; }
+
+{ type: ground; x: 0; y: 200; repeat-width: 69; repeat-height: 2; }
+
+{ type: ground; x: 1136; y: 200; repeat-width: 15; repeat-height: 2; }
+
+{ type: ground; x: 1424; y: 200; repeat-width: 64; repeat-height: 2; }
+
+{ type: ground; x: 2480; y: 200; repeat-width: 57; repeat-height: 2; }
+
+{ type: player; x: 20; y: 186; }
+
+{ type: qblock; x: 256; y: 136; stored: coin; }
+
+{ type: item-brick; x: 320; y: 136; }
+
+{ type: qblock; x: 336; y: 136; stored: super-mushroom; }
+
+{ type: item-brick; x: 352; y: 136; }
+
+{ type: qblock; x: 368; y: 136; stored: coin; }
+
+{ type: item-brick; x: 384; y: 136; }
+
+{ type: qblock; x: 352; y: 72; stored: coin; }
+
+{ type: goomba; x: 352; y: 186; }
+
+{ type: pipe; x: 448; y: 168; repeat: 2; }
+
+{ type: pipe; x: 608; y: 152; repeat: 4; }
+
+{ type: goomba; x: 640; y: 186; }
+
+{ type: pipe; x: 736; y: 136; repeat: 6; }
+
+{ type: goomba; x: 816; y: 186; }
+
+{ type: goomba; x: 839; y: 186; }
+
+{ type: pipe; x: 912; y: 136; repeat: 6; }
+
+{ type: kaizo; x: 1024; y: 128; stored: one-up; }
+
+{ type: item-brick; x: 1232; y: 136; }
+
+{ type: qblock; x: 1248; y: 136; stored: super-mushroom; }
+
+{ type: item-brick; x: 1264; y: 136; }
+
+{ type: item-brick; x: 1280; y: 72; repeat-width: 8; }
+
+{ type: goomba; x: 1280; y: 56; }
+
+{ type: goomba; x: 1312; y: 56; }
+
+{ type: item-brick; x: 1456; y: 72; repeat-width: 3; }
+
+{ type: qblock; x: 1504; y: 72; stored: coin; }
+
+{ type: item-brick; x: 1504; y: 136; stored: coin; }
+
+{ type: goomba; x: 1552; y: 186; }
+
+{ type: goomba; x: 1576; y: 186; }
+
+{ type: item-brick; x: 1600; y: 136; }
+
+{ type: item-brick; x: 1616; y: 136; stored: star; }
+
+{ type: qblock; x: 1696; y: 136; stored: coin; }
+
+{ type: koopa; x: 1712; y: 178; }
+
+{ type: qblock; x: 1744; y: 136; stored: coin; }
+
+{ type: qblock; x: 1744; y: 72; stored: super-mushroom; }
+
+{ type: qblock; x: 1792; y: 136; stored: coin; }
+
+{ type: goomba; x: 1824; y: 186; }
+
+{ type: goomba; x: 1847; y: 186; }
+
+{ type: item-brick; x: 1888; y: 136; }
+
+{ type: item-brick; x: 1936; y: 72; repeat-width: 4; }
+
+{ type: goomba; x: 1984; y: 186; }
+
+{ type: goomba; x: 2007; y: 186; }
+
+{ type: goomba; x: 2048; y: 186; }
+
+{ type: item-brick; x: 2048; y: 72; }
+
+{ type: qblock; x: 2064; y: 72; stored: coin; }
+
+{ type: goomba; x: 2071; y: 186; }
+
+{ type: qblock; x: 2080; y: 72; stored: coin; }
+
+{ type: item-brick; x: 2096; y: 72; }
+
+{ type: item-brick; x: 2064; y: 136; repeat-width: 2; }
+
+{ type: block; x: 2144; y: 184; repeat-width: 4; }
+
+{ type: block; x: 2160; y: 168; repeat-width: 3; }
+
+{ type: block; x: 2176; y: 152; repeat-width: 2; }
+
+{ type: block; x: 2192; y: 136; }
+
+{ type: block; x: 2240; y: 136; }
+
+{ type: block; x: 2240; y: 152; repeat-width: 2; }
+
+{ type: block; x: 2240; y: 168; repeat-width: 3; }
+
+{ type: block; x: 2240; y: 184; repeat-width: 4; }
+
+{ type: block; x: 2368; y: 184; repeat-width: 5; }
+
+{ type: block; x: 2384; y: 168; repeat-width: 4; }
+
+{ type: block; x: 2400; y: 152; repeat-width: 3; }
+
+{ type: block; x: 2416; y: 136; repeat-width: 2; }
+
+{ type: block; x: 2480; y: 136; }
+
+{ type: block; x: 2480; y: 152; repeat-width: 2; }
+
+{ type: block; x: 2480; y: 168; repeat-width: 3; }
+
+{ type: block; x: 2480; y: 184; repeat-width: 4; }
+
+{ type: pipe; x: 2608; y: 168; repeat: 2; }
+
+{ type: item-brick; x: 2688; y: 132; repeat-width: 2; }
+
+{ type: qblock; x: 2720; y: 132; stored: coin; } 
+
+{ type: item-brick; x: 2736; y: 132; }
+
+{ type: goomba; x: 2784; y: 186; }
+
+{ type: goomba; x: 2807; y: 186; }
+
+{ type: pipe; x: 2864; y: 168; repeat: 2; }
+
+{ type: block; x: 2896; y: 184; repeat-width: 9; }
+
+{ type: block; x: 2912; y: 168; repeat-width: 8; }
+
+{ type: block; x: 2928; y: 152; repeat-width: 7; }
+
+{ type: block; x: 2944; y: 136; repeat-width: 6; }
+
+{ type: block; x: 2960; y: 120; repeat-width: 5; }
+
+{ type: block; x: 2976; y: 104; repeat-width: 4; }
+
+{ type: block; x: 2992; y: 88; repeat-width: 3; }
+
+{ type: block; x: 3008; y: 72; repeat-width: 2; }
+
+{ type: block; x: 3168; y: 184; }
+
+{ type: flagpole; x: 3168; y: 32; } 
